@@ -41,3 +41,12 @@ button{
     font-family:Helvetica, sans-serif;
 
 }
+
+nav{
+    background-color: rgb(231, 231, 231);
+    padding: 1%;
+}
+
+a{
+    margin-right: 1%;
+}
