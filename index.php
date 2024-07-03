@@ -11,10 +11,10 @@
     <h1>Авторизация</h1>
   </div>
   
-    <label for="login">Логин:</label>
+    <div class="label">Логин</div>
     <input type="text" name="login" id="login" required><br><br>
 
-    <label for="password">Пароль:</label>
+    <div class="label">Пароль</div>
     <input type="password" name="password" id="password" required><br><br>
 
     <button type="submit">Войти</button>
