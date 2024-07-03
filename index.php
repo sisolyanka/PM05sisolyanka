@@ -2,10 +2,15 @@
 <html>
 <head>
   <title>Личный кабинет</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <h1>Авторизация</h1>
-  <form action="login.php" method="post">
+  
+  <form action="login.php" method="post" class="reg">
+  <div class="h1">
+    <h1>Авторизация</h1>
+  </div>
+  
     <label for="login">Логин:</label>
     <input type="text" name="login" id="login" required><br><br>
 
