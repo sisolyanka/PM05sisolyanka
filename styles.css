@@ -4,7 +4,7 @@ body{
 
 form.reg{
     margin-top: 10%;
-    margin-left: 35%;
+    margin-left: 37%;
     background-color: rgb(231, 231, 231);
     width: 20%;
     border: gray solid 1.5px;
@@ -15,14 +15,17 @@ form.reg{
 input{
     width: 98%;
     border-radius: 5px;
+    padding: 1.5%;
 }
 
 .h1{
     text-align: center;
+
 }
 
-label{
+.label{
     font-family:Helvetica, sans-serif;
+    margin-bottom: 2%;
 }
 
 button{
@@ -32,6 +35,9 @@ button{
     width: 100%;
     border: none;
     border-radius: 5px;
+    color: black;
+    font-weight: 700;
+    font-size: 1.1em;
+    font-family:Helvetica, sans-serif;
 
 }
-
